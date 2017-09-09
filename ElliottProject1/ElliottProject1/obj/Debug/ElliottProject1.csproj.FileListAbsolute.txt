@@ -1,0 +1,9 @@
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\bin\Debug\ElliottProject1.exe.config
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\bin\Debug\ElliottProject1.exe
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\bin\Debug\ElliottProject1.pdb
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\obj\Debug\ElliottProject1.csprojResolveAssemblyReference.cache
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\obj\Debug\ElliottProject1.frmStackProgram.resources
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\obj\Debug\ElliottProject1.Properties.Resources.resources
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\obj\Debug\ElliottProject1.csproj.GenerateResource.Cache
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\obj\Debug\ElliottProject1.exe
+c:\users\kelse\documents\visual studio 2015\Projects\ElliottProject1\ElliottProject1\obj\Debug\ElliottProject1.pdb
